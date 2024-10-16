@@ -3,7 +3,7 @@
   "Version": 2,
   "VersionName": "2.3.1",
   "SemVersion": "2.3.1",
-  "GameVersion": ">=368883",
+  "GameVersion": ">=372858",
   "FriendlyName": "Wall Pipe Supports",
   "Description": "Additional variants of the wall pipe support",
   "Category": "Modding",
