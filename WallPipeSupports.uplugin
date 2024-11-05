@@ -1,9 +1,9 @@
 {
   "FileVersion": 3,
   "Version": 2,
-  "VersionName": "2.3.1",
-  "SemVersion": "2.3.1",
-  "GameVersion": ">=372858",
+  "VersionName": "2.3.2",
+  "SemVersion": "2.3.2",
+  "GameVersion": ">=377620",
   "FriendlyName": "Wall Pipe Supports",
   "Description": "Additional variants of the wall pipe support",
   "Category": "Modding",
@@ -24,7 +24,7 @@
     },
     {
       "Name": "MarcioCommonLibs",
-      "SemVersion": "^1.3.1",
+      "SemVersion": "^1.3.5",
       "Enabled": true
     }
   ]
