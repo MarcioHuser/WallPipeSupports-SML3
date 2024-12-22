@@ -3,7 +3,7 @@
   "Version": 2,
   "VersionName": "2.3.2",
   "SemVersion": "2.3.2",
-  "GameVersion": ">=382498",
+  "GameVersion": ">=385279",
   "FriendlyName": "Wall Pipe Supports",
   "Description": "Additional variants of the wall pipe support",
   "Category": "Modding",
@@ -19,7 +19,7 @@
   "Plugins": [
     {
       "Name": "SML",
-      "SemVersion": "^3.8.0",
+      "SemVersion": "^3.9.0",
       "Enabled": true
     },
     {
